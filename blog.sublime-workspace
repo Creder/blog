@@ -1,0 +1,897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sfenti",
+				"sfentityclass\tSymfony2 / Entity / Entity class"
+			],
+			[
+				"sfe",
+				"sfentityclass\tSymfony2 / Entity / Entity class"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sfent",
+				"sfentityclass\tSymfony2 / Entity / Entity class"
+			],
+			[
+				"last",
+				"last_page"
+			],
+			[
+				"poduc",
+				"product_name"
+			],
+			[
+				"prod",
+				"product_weight"
+			],
+			[
+				"good",
+				"goodsArray"
+			],
+			[
+				"product",
+				"product_name"
+			],
+			[
+				"produc",
+				"product_name"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"FC",
+				"FCONVList"
+			],
+			[
+				"fn",
+				"fnList_Z"
+			],
+			[
+				"for",
+				"forierconv"
+			],
+			[
+				"Con",
+				"CONVList"
+			],
+			[
+				"con",
+				"Conjugate"
+			],
+			[
+				"fnList",
+				"fnList_Z"
+			],
+			[
+				"fLis",
+				"fnList_Z"
+			],
+			[
+				"func",
+				"func_Z"
+			],
+			[
+				"sec",
+				"secondImage"
+			],
+			[
+				"fi",
+				"firstImage"
+			],
+			[
+				"IFFT",
+				"IFFTList"
+			],
+			[
+				"id",
+				"index"
+			],
+			[
+				"dow",
+				"downvote"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"commet",
+				"comments"
+			],
+			[
+				"comm",
+				"comments_params"
+			],
+			[
+				"omnia",
+				"omniauth"
+			],
+			[
+				"req",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Resources/views/base.html.twig",
+			"settings":
+			{
+				"buffer_size": 3657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Blogger/BlogBundle/Resources/views/layout.html.twig",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/AppKernel.php",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/security.yml",
+			"settings":
+			{
+				"buffer_size": 870,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/routing_dev.yml",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Blogger/BlogBundle/Entity/User.php",
+			"settings":
+			{
+				"buffer_size": 383,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/routing.yml",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Resources/views/blog/show.html.twig",
+			"settings":
+			{
+				"buffer_size": 418,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Blogger/BlogBundle/Controller/BlogController.php",
+			"settings":
+			{
+				"buffer_size": 4294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/config.yml",
+			"settings":
+			{
+				"buffer_size": 3143,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Blogger/BlogBundle/Entity/Blog.php",
+			"settings":
+			{
+				"buffer_size": 2758,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/creder/blog",
+		"/home/creder/blog/app",
+		"/home/creder/blog/app/Resources",
+		"/home/creder/blog/app/Resources/views",
+		"/home/creder/blog/app/Resources/views/blog",
+		"/home/creder/blog/app/config",
+		"/home/creder/blog/src",
+		"/home/creder/blog/src/Blogger",
+		"/home/creder/blog/src/Blogger/BlogBundle",
+		"/home/creder/blog/src/Blogger/BlogBundle/Entity",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/config",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/views",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/views/Blog",
+		"/home/creder/blog/web"
+	],
+	"file_history":
+	[
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/config/routing.yml",
+		"/home/creder/blog/src/Blogger/BlogBundle/Entity/untitled",
+		"/home/creder/blog/src/Blogger/BlogBundle/Controller/PageController.php",
+		"/home/creder/blog/app/Resources/views/blog/index.html.twig",
+		"/home/creder/blog/web/css/blog.css",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/views/Page/about.html.twig",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/views/Blog/show.html.twig",
+		"/home/creder/blog/src/Blogger/BlogBundle/Resources/views/Page/index.html.twig",
+		"/home/creder/blog/app/Resources/views/blog/new.html.twig",
+		"/home/creder/blog/app/Resources/views/blog/edit.html.twig",
+		"/home/creder/blog/src/Blogger/BlogBundle/Entity/Blog.php",
+		"/home/creder/blog/src/Blogger/BlogBundle/Form/BlogType.php",
+		"/home/creder/blog/src/Blogger/BlogBundle/Controller/BlogController.php",
+		"/home/creder/news_blog/src/BlogBundle/Entity/Post.php",
+		"/home/creder/news_blog/web/app.php",
+		"/home/creder/news_blog/app/Resources/views/base.html.twig",
+		"/var/www/html/register.php",
+		"/var/www/includes/constants.php",
+		"/var/www/includes/connection.php",
+		"/var/www/html/login.php",
+		"/home/creder/parser.rb",
+		"/home/creder/result.csv",
+		"/var/www/html/laravel_project/config/auth.php",
+		"/var/www/html/laravel_project/resources/views/welcome.blade.php",
+		"/var/www/html/laravel_project/routes/web.php",
+		"/var/www/html/laravel_project/vendor/vlucas/phpdotenv/src/Validator.php",
+		"/var/www/html/laravel_project/app/Http/Controllers/AdminController.php",
+		"/var/www/html/laravel_project/resources/views/about.blade.php",
+		"/var/www/html/laravel_project/vendor/symfony/routing/Route.php",
+		"/var/www/html/laravel_project/app/Admins.php",
+		"/var/www/html/laravel_project/resources/views/admin.blade.php",
+		"/var/www/html/laravel_project/resources/views/home.blade.php",
+		"/var/www/html/laravel_project/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/laravel_project/database/migrations/2017_07_27_193947_create_admins_table.php",
+		"/var/www/html/laravel_project/.env",
+		"/var/www/html/laravel_project/config/database.php",
+		"/var/www/html/laravel_project/database/migrations/2017_07_27_141629_users.php",
+		"/var/www/html/index.php",
+		"/var/www/html/style.css",
+		"/var/www/html/laravel_project/public/index.php",
+		"/var/www/html/laravel_project/database/migrations/2017_07_27_135429_create_posts.php",
+		"/var/www/html/laravel_project/app/Http/Controllers/Controller.php",
+		"/var/www/html/send_post.php",
+		"/var/www/html/check_email.php",
+		"/var/www/html/javascript.js",
+		"/var/www/html/Untitled Document",
+		"/var/www/html/index.html",
+		"/var/www/html/db.php",
+		"/var/www/scripts/javascript.js",
+		"/home/creder/python/lab_two.py",
+		"/home/creder/python/first_code.py",
+		"/home/creder/github/Instructonator/app/views/posts/_form.html.erb",
+		"/home/creder/github/Instructonator/app/views/posts/show.html.erb",
+		"/home/creder/github/Instructonator/app/models/post.rb",
+		"/home/creder/github/Instructonator/app/views/steps/_form_step.html.erb",
+		"/home/creder/github/Instructonator/app/controllers/comments_controller.rb",
+		"/home/creder/github/Instructonator/app/views/layouts/application.html.haml",
+		"/home/creder/github/Instructonator/app/controllers/posts_controller.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/posts.coffee",
+		"/home/creder/github/Instructonator/app/views/comments/create.js.erb",
+		"/home/creder/github/Instructonator/app/controllers/steps_controller.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/pagination.js",
+		"/home/creder/github/Instructonator/app/views/posts/post.js.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/application.js",
+		"/home/creder/github/Instructonator/app/views/posts/steps.js.erb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/posts.js.erb",
+		"/home/creder/github/Instructonator/app/controllers/tags_controller.rb",
+		"/home/creder/github/Instructonator/config/routes.rb",
+		"/home/creder/github/Instructonator/db/migrate/20170310000914_acts_as_taggable_on_migration.acts_as_taggable_on_engine.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/posts.js.rb",
+		"/home/creder/github/Instructonator/Gemfile",
+		"/home/creder/github/Instructonator/app/views/steps/_step.html.erb",
+		"/home/creder/github/Instructonator/app/views/comments/_comment.html.erb",
+		"/home/creder/github/Instructonator/app/views/steps/edit.html.erb",
+		"/home/creder/github/Instructonator/config/initializers/devise.rb",
+		"/home/creder/github/Instructonator/app/models/user.rb",
+		"/home/creder/github/Instructonator/app/views/posts/edit.html.erb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/steps.coffee",
+		"/home/creder/github/Instructonator/app/models/step.rb",
+		"/home/creder/github/Instructonator/app/views/steps/index.html.erb",
+		"/home/creder/github/Instructonator/app/views/posts/steps.html.erb",
+		"/home/creder/github/Instructonator/app/views/steps/steps.html.erb",
+		"/home/creder/github/Instructonator/app/assets/stylesheets/application.css.scss",
+		"/home/creder/github/Instructonator/db/migrate/20170310123820_create_comments.rb",
+		"/home/creder/github/Instructonator/app/models/comment.rb",
+		"/home/creder/github/Instructonator/db/migrate/20170310101013_create_comments.rb",
+		"/home/creder/github/Instructonator/app/models/ability.rb",
+		"/home/creder/github/Instructonator/app/views/posts/index.html.erb",
+		"/home/creder/github/Instructonator/app/assets/stylesheets/posts.css.scss",
+		"/home/creder/github/Instructonator/config/initializers/assets.rb",
+		"/home/creder/github/Instructonator/app/models/tag.rb",
+		"/home/creder/github/Instructonator/db/migrate/20170309235724_acts_as_taggable_on_migration.acts_as_taggable_on_engine.rb",
+		"/home/creder/github/Instructonator/Gemfile.lock",
+		"/home/creder/github/Instructonator/app/views/posts/show.html.haml",
+		"/home/creder/github/Instructonator/app/views/posts/index.html.haml",
+		"/home/creder/github/Instructonator/app/views/posts/_form.html.haml",
+		"/home/creder/github/Instructonator/app/assets/javascripts/steps.js",
+		"/home/creder/github/Instructonator/app/uploaders/stepimage_uploader.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/cloudinary_settings.js",
+		"/home/creder/github/Instructonator/app/assets/stylesheets/application.scss",
+		"/home/creder/github/Instructonator/app/views/posts/new.html.erb",
+		"/home/creder/github/Instructonator/app/assets/stylesheets/steps.css.scss",
+		"/home/creder/github/Instructonator/app/assets/javascripts/posts.js",
+		"/home/creder/github/Instructonator/app/views/steps/new.html.erb",
+		"/home/creder/github/Instructonator/app/assets/stylesheets/posts.scss",
+		"/home/creder/github/collager/app/views/photos/index.html.erb",
+		"/home/creder/github/Instructonator/app/views/steps/_form.html.erb",
+		"/home/creder/github/Instructonator/db/migrate/20170222121411_create_posts.rb",
+		"/home/creder/github/Instructonator/app/controllers/application_controller.rb",
+		"/home/creder/github/Instructonator/app/helpers/application_helper.rb",
+		"/home/creder/github/Instructonator/app/controllers/users/omniauth_callbacks_controller.rb",
+		"/home/creder/github/Instructonator/db/schema.rb",
+		"/home/creder/github/Instructonator/app/views/application.html.erb",
+		"/home/creder/github/Instructonator/config/environments/development.rb",
+		"/home/creder/github/Instructonator/app/models/application_record.rb",
+		"/home/creder/github/Instructonator/app/controllers/omniauth_callbacks_controller.rb",
+		"/home/creder/github/Instructonator/app/views/layouts/application.html.erb",
+		"/home/creder/github/Instructonator/app/controllers/callbacks_controller.rb",
+		"/home/creder/github/Instructonator/app/assets/javascripts/callbacks.coffee",
+		"/home/creder/github/Instructonator/app/controllers/callbacks_controller_controller.rb",
+		"/home/creder/github/simple_app/app/views/static_pages/home.html.erb",
+		"/home/creder/github/Instructonator/app/views/users/index.html.haml",
+		"/home/creder/github/Instructonator/app/controllers/users_controller.rb",
+		"/home/creder/github/collager/app/assets/stylesheets/1st_load_framework.css.scss",
+		"/home/creder/github/collager/app/views/collages/index.html.erb",
+		"/home/creder/github/collager/app/controllers/application_controller.rb",
+		"/home/creder/github/collager/app/assets/javascripts/photos.js",
+		"/home/creder/github/collager/app/assets/javascripts/show.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/creder/github/Instructonator"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			"vkonakte",
+			"User.from",
+			"navbar",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/creder/blog"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Resources/views/base.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1340,
+								1340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/HTML (Twig).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Blogger/BlogBundle/Resources/views/layout.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/HTML (Twig).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/AppKernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/config/security.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/config/routing_dev.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/Blogger/BlogBundle/Entity/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/config/routing.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Resources/views/blog/show.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/HTML (Twig).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/Blogger/BlogBundle/Controller/BlogController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								937,
+								937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/config/config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2862,
+								2862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1092.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/Blogger/BlogBundle/Entity/Blog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								725,
+								725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r/v/w",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"p/v",
+				"vendor/vlucas/phpdotenv/src/Validator.php"
+			],
+			[
+				"r/w",
+				"routes/web.php"
+			],
+			[
+				"rou",
+				"vendor/symfony/routing/Route.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
